@@ -1,10 +1,8 @@
 # HarshVardhanGitHubProfile-Readme
 <h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
-<h3 align="center">A passionate Flutter App Developerfrom India</h3>
+<h3 align="center">A passionate Flutter App Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1000-hub&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1000-hub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh1000-hub" alt="harsh1000-hub" /></a> </p>
 
 - 🔭 I’m currently working on [BMI Calculator](https://github.com/harsh1000-hub/BMI_Calculator)
 
