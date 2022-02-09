@@ -17,7 +17,6 @@
 <a href="https://instagram.com/the_hvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_hvd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/it_1901640130029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="it_1901640130029" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hvd_7667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hvd_7667" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/the_hvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="the_hvd" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harshvardhanlapd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshvardhanlapd" height="30" width="40" /></a>
 </p>
 
