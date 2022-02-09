@@ -1,14 +1,11 @@
-# HarshVardhanGitHubProfile-Readme
 <h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
 <h3 align="center">A passionate Flutter App Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1000-hub&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1000-hub" /> </p>
 
-- 🔭 I’m currently working on [BMI Calculator](https://github.com/harsh1000-hub/BMI_Calculator)
-
 - 🌱 I’m currently learning **Flutter UI Framework, Data structures and Algorithms**
 
-- 💬 Ask me about **Java, MySQl, SQLite,**
+- 💬 Ask me about **,Java, Dart, Flutter, MySQl, SQLite,**
 
 - 📫 How to reach me **harshvardhan.lapd@gmail.com**
 
