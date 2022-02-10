@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1000-hub&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1000-hub" /> </p>
 
-- 🌱 I’m currently learning **Flutter UI Framework, Data structures and Algorithms**
+- 🌱 I’m currently learning **Cross platform mobile App development, Data structures and Algorithms**
 
-- 💬 Ask me about **,Java, Dart, Flutter, MySQl, SQLite,**
+- 💬 Ask me about **Java, Dart, Flutter, MySQl, SQLite,**
 
 - 📫 How to reach me **harshvardhan.lapd@gmail.com**
 
