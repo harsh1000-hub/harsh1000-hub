@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
-<h3 align="center">Incoming Software Developer</h3>
+<h3 align="center">Upcoming SDE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1000-hub&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1000-hub" /> </p>
 
