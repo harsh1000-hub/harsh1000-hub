@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
-<h3 align="center">I'm currently working as an SDE in Nagarro</h3>
+<h3 align="center">I'm currently working as an SDE Intern in Nagarro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1000-hub&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1000-hub" /> </p>
 
