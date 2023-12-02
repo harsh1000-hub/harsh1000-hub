@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **harshvardhan.lapd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m2CgG8yeeiPFDiIzy_xdJ8rRt61s4a25/view?usp=sharing](https://drive.google.com/file/d/1m2CgG8yeeiPFDiIzy_xdJ8rRt61s4a25/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link](https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny!!!!**
 
