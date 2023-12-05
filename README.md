@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,c++,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
@@ -67,6 +67,9 @@
 <hr/>
 
 <br/>
+<div align="center">
+<a href='https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link' border='0' alt='Check out my Resume' /></a>
+</div>
 
 
 
