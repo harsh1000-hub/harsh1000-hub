@@ -70,10 +70,8 @@
 
 <br/>
 <div align="center">
- <a href="https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link" style="display: inline-block; padding: 10px 20px; font-size: 16px; text-align: center; text-decoration: none; background-color: #3498db; color: #fff; border-radius: 5px; transition: background-color 0.3s ease;" target="_blank">Download Resume</a>
-    <button>
-        <a href="https://example.com" class="styled-button">Click me</a>
-    </button>
+<!-- <a href="https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link" style="display: inline-block; padding: 10px 20px; font-size: 16px; text-align: center; text-decoration: none; background-color: #3498db; color: #fff; border-radius: 5px; transition: background-color 0.3s ease;" target="_blank">Download Resume</a> -->
+   <a href='https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Download Resume' /></a>
 </div>
 
 
