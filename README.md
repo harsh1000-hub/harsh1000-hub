@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Vardhan!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India(IN)</h3>
+<h3 align="center">A passionate Software Developer from India(IN)</h3>
 
 <br/>
 
@@ -33,7 +33,6 @@
 
  <hr/>
  <h2 align="center">Download Resume</h2>
- <br/>
  <div align="center">
    <a href='https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28yL9fcLmFVKq3bXvJrjHE4Zy8b-qEbuzLg&usqp=CAU' border='0' alt='Download Resume' /></a>
 </div>
