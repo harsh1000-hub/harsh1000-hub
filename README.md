@@ -32,7 +32,18 @@
 </div>
 
  <hr/>
- <h2 align="center">Download Resume</h2>
+ 
+</div>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+<h2 align="center">Download Resume</h2>
  <div align="center">
    <a href='https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link' target='_blank'>
       <img 
@@ -51,17 +62,6 @@
     onmouseout="this.style.transform='scale(1)'"
   />
    </a>
-</div>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
-</div>
-
-<br/>
-<hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
