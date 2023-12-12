@@ -34,7 +34,15 @@
  <hr/>
  <h2 align="center">Download Resume</h2>
  <div align="center">
-   <a href='https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXY5WPEkPjJBU0wHXW9o4cWJf7Oi-cKL-yhOAKQGMs7FYAIhIIzjZqeB66-EHJHsM3ZWs&usqp=CAU' border='0' alt='Download Resume' /></a>
+   <a href='https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link' target='_blank'>
+      <img 
+    height='64' 
+    style='border: 5px solid #f00; border-radius: 20px; height: 64px;' 
+    src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXY5WPEkPjJBU0wHXW9o4cWJf7Oi-cKL-yhOAKQGMs7FYAIhIIzjZqeB66-EHJHsM3ZWs&usqp=CAU' 
+    border='0' 
+    alt='Download Resume' 
+      />
+   </a>
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
