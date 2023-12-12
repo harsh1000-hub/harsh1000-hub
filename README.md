@@ -70,15 +70,5 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh1000-hub&show_icons=true&locale=en&layout=compact" alt="harsh1000-hub" />
-
-  <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh1000-hub&" alt="harsh1000-hub" />
-</div>
 
 
