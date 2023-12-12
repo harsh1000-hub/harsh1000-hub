@@ -37,11 +37,19 @@
    <a href='https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link' target='_blank'>
       <img 
     height='64' 
-    style='border: 5px solid #f00; border-radius: 20px; height: 64px;' 
+    style='
+      border: 5px solid #f00; 
+      border-radius: 20px; 
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+      transition: transform 0.3s ease-in-out; 
+      height: 64px;
+    ' 
     src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXY5WPEkPjJBU0wHXW9o4cWJf7Oi-cKL-yhOAKQGMs7FYAIhIIzjZqeB66-EHJHsM3ZWs&usqp=CAU' 
     border='0' 
     alt='Download Resume' 
-      />
+    onmouseover="this.style.transform='scale(1.1)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  />
    </a>
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
