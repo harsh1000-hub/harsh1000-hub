@@ -45,7 +45,7 @@
 <hr/>
 <h2 align="center">Download Resume</h2>
  <div align="center">
-   <a href='https://drive.google.com/file/d/1wktOhk9cp_5c9OK2W5jwV0TneFZYFZOg/view?usp=drive_link' target='_blank'>
+   <a href='https://drive.google.com/file/d/1W5ceg-TfZpfIzDhELnrH4VRfEQodBrDw/view?usp=drive_link' target='_blank'>
       <img 
     height='64' 
     style='
