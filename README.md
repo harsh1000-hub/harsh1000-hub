@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working in a **Desi Qna as an SDE Intern and have 9 months of experience as an Associate Engineer Trainee in Nagarro**
+ 🔭 I’m currently working in a **WebWrite Services as a Software Developer and have 9 months of experience as an Associate Engineer Trainee in Nagarro**
  
  🌱 I’m currently learning **MERN Stack, DevOps, Data Structures & Algorithms**
 
