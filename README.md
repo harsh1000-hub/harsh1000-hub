@@ -36,29 +36,11 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=springboot,javascript,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=spring boot,javascript,c,java,mysql" /><br>
 </div>
 
 <br/>
 <hr/>
-<h2 align="center">Download Resume</h2>
- <div align="center">
-   <a href='https://drive.google.com/file/d/10YBUtXfv3diXz5Y963lu_YY3eKW3iw44/view?usp=sharing' target='_blank'>
-      <img 
-    height='64' 
-    style='
-      border: 5px solid #f00; 
-      border-radius: 20px; 
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
-      transition: transform 0.3s ease-in-out; 
-      height: 64px;
-    ' 
-    src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXY5WPEkPjJBU0wHXW9o4cWJf7Oi-cKL-yhOAKQGMs7FYAIhIIzjZqeB66-EHJHsM3ZWs&usqp=CAU' 
-    border='0' 
-    alt='Download Resume' 
-    onmouseover="this.style.transform='scale(1.1)'" 
-    onmouseout="this.style.transform='scale(1)'"
-  />
    </a>
 
 
