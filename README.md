@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 **Currently working in EY as a Senior Analyst and before that have 9 months of experience as an Associate Engineer Trainee at Nagarro**
+ 🔭 **Currently working in EY as a Senior Analyst and before that have 9 months of experience as an Associate Engineer at Nagarro**
 
 💬 Ask me about **Java Backend, React, Databases... or anything [here](https://www.linkedin.com/in/harsh-vardhan-561bb6190/)**
 
