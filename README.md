@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 **Have 9 months of experience as an Associate Engineer Trainee in Nagarro**
- 
- 🌱 I’m currently learning **MERN Stack, DevOps, Data Structures & Algorithms**
+ 🔭 **Currently working in EY as a Senior Analyst and before that have 9 months of experience as an Associate Engineer Trainee at Nagarro**
 
-💬 Ask me about **Node.js, React, Databases... or anything [here](https://www.linkedin.com/in/harsh-vardhan-561bb6190/)**
+💬 Ask me about **Java Backend, React, Databases... or anything [here](https://www.linkedin.com/in/harsh-vardhan-561bb6190/)**
 
 
  </div>
@@ -37,15 +35,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=springboot,javascript,c,java,mysql" /><br>
 </div>
 
 <br/>
 <hr/>
 <h2 align="center">Download Resume</h2>
  <div align="center">
-   <a href='https://drive.google.com/file/d/1W5ceg-TfZpfIzDhELnrH4VRfEQodBrDw/view?usp=drive_link' target='_blank'>
+   <a href='https://drive.google.com/file/d/10YBUtXfv3diXz5Y963lu_YY3eKW3iw44/view?usp=sharing' target='_blank'>
       <img 
     height='64' 
     style='
